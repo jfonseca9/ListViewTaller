@@ -53,7 +53,7 @@
             android:id="@+id/textView8"
             android:layout_width="277dp"
             android:layout_height="wrap_content"
-            android:text="Altura del traingulo (cm):"
+            android:text="Altura del triangulo (cm):"
             android:textAlignment="viewStart"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -74,16 +74,21 @@
 
         <Button
             android:id="@+id/btnCalcular"
-            android:layout_width="64dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="250dp"
-            android:text="Button" />
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Calcular " />
 
         <Button
             android:id="@+id/btnLimpiar"
-            android:layout_width="66dp"
+            android:layout_width="101dp"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+
+
+            android:text="Limpiar" />
     </LinearLayout>
 
 </LinearLayout>
