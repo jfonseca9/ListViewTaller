@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Calculadora Geometrica</string>
+    <string name="numero" translatable="false">#</string>
+    <string name="op" translatable="false">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="cuadrado">Area del Cuadrado</string>
+    <string name="lado">Lado del cuadrado (cm):</string>
+    <string name="rectangulo" translatable="false">Area del Rectangulo</string>
+    <string name="ladoRectangulo" translatable="false">Lado del rectangulo (cm):</string>
+    <string name="triangulo" translatable="false">Area del Triangulo</string>
+    <string name="baseTriangulo" translatable="false">Base del triangulo (cm):</string>
+    <string name="alturaTriangulo" translatable="false">Altura del triangulo (cm):</string>
+    <string name="circulo" translatable="false">Area del Circulo</string>
+    <string name="radioCirculo" translatable="false">Radio del circulo (cm):</string>
+    <string name="esfera" translatable="false">Volumen de la Esfera</string>
+    <string name="radioEsfera" translatable="false">Radio de la esfera (cm):</string>
+    <string name="cono" translatable="false">Volumen del Cono</string>
+    <string name="baseCono" translatable="false">Base del cono (cm):</string>
+    <string name="alturaCono" translatable="false">Altura del cono(cm):</string>
+    <string name="cubo" translatable="false">Volumen del Cubo</string>
+    <string name="ladoCubo" translatable="false">Lado del cubo (cm):</string>
+    <string name="cilindro" translatable="false">Volumen del Cilindro</string>
+    <string name="radioCilindro" translatable="false">Radio del cilindro (cm):</string>
+    <string name="alturaCilindro" translatable="false">Altura del cilindro (cm):</string>
+</resources>

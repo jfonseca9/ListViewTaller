@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometrical Calculator</string>
+    <string name="op">Operation</string>
+    <string name="datos">Data</string>
+    <string name="resultado" translatable="false">Result</string>
+    <string name="cuadrado">Area of the Square</string>
+    <string name="lado">Side of the square (cm):</string>
+    <string name="rectangulo">Area of the Rectangle</string>
+    <string name="ladoRectangulo">Side of the rectangle (cm):</string>
+    <string name="triangulo">Area of the Triangle</string>
+    <string name="baseTriangulo">Base of the triangle (cm):</string>
+    <string name="alturaTriangulo">Triangle height (cm):</string>
+    <string name="circulo" translatable="false">Area of the Circle</string>
+    <string name="radioCirculo" translatable="false">Circle radius (cm):</string>
+    <string name="esfera">Sphere Volume</string>
+    <string name="radioEsfera">Radius of the sphere (cm):</string>
+    <string name="cono" translatable="false">Cone Volume</string>
+    <string name="baseCono" translatable="false">Cone base (cm):</string>
+    <string name="alturaCono" translatable="false">Height of the cone (cm):</string>
+    <string name="cubo" translatable="false">Bucket Volume</string>
+    <string name="ladoCubo">Side of the cube (cm):</string>
+    <string name="cilindro">Cylinder Volume</string>
+    <string name="radioCilindro">Cylinder radius (cm):</string>
+    <string name="alturaCilindro">Cylinder height (cm):</string>
+</resources>
