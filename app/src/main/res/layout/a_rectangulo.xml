@@ -30,7 +30,7 @@
             android:id="@+id/textView11"
             android:layout_width="275dp"
             android:layout_height="wrap_content"
-            android:text="Lado del rectangulo"
+            android:text="Lados del rectangulo"
             android:textAlignment="viewStart"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -53,7 +53,7 @@
             android:id="@+id/textView8"
             android:layout_width="277dp"
             android:layout_height="wrap_content"
-            android:text="Lado del rectangulo (cm):"
+            android:text="Area del rectangulo (cm):"
             android:textAlignment="viewStart"
             android:textSize="24sp"
             android:textStyle="bold" />
